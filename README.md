@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manei
 - 👀 I’m interested in software development technologies.
-- 🌱 I’m currently learning React/ Redux.
+- 🌱 I’m currently working on IoT Development.
 - 💞️ I’m looking to collaborate on new technologies for web and mobile development.
 - 📫 You can reach me at manei.rastogi@outlook.com
 
